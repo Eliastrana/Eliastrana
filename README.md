@@ -4,6 +4,12 @@
 
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/elias-trana-a21a5125b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linked In" height="30" width="40" /></a>
+<a href="https://www.instagram.com/elias_tt/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
 <!--
 **Eliastrana/Eliastrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
