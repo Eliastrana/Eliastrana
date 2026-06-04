@@ -1,20 +1,14 @@
-<h1 align="center">Hi, I'm Elias 👋</h1>
+<h1 align="">Hi, I'm Elias 👋</h1>
 
-<p align="center">
+<p align="">
   <!-- ✏️ EDIT: one-line tagline describing what you do -->
   Developer based in Oslo, Norway
 </p>
 
----
-
-### Here you will find my hobby projects
-
-
----
 
 ### 📊 GitHub stats
 
-<p align="center">
+<p align="">
   <img height="180" alt="Elias' GitHub stats" src="https://github-readme-stats-mu-nine-18.vercel.app/api?username=eliastrana&show_icons=true&include_all_commits=true&theme=radical" />
   <img height="180" alt="Top languages" src="https://github-readme-stats-mu-nine-18.vercel.app/api/top-langs/?username=eliastrana&layout=compact&theme=radical" />
 </p>
@@ -25,7 +19,7 @@
   you'd self-host github-readme-streak-stats the same way you did this one.
   Delete these comment lines and the <p> block if you don't want it.
 -->
-<p align="center">
+<p align="">
   <img height="180" alt="GitHub streak" src="https://streak-stats.demolab.com?user=eliastrana&theme=radical" />
 </p>
 
