@@ -9,12 +9,12 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="150" alt="Elias' GitHub stats" src="https://github-readme-stats-mu-nine-18.vercel.app/api?username=eliastrana&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" />
-  <img height="150" alt="Top languages" src="https://github-readme-stats-mu-nine-18.vercel.app/api/top-langs/?username=eliastrana&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" alt="Elias' GitHub stats" src="https://github-readme-stats-mu-nine-18.vercel.app/api?username=eliastrana&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="150" alt="Top languages" src="https://github-readme-stats-mu-nine-18.vercel.app/api/top-langs/?username=eliastrana&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=eliastrana&theme=radical&hide_border=true" />
+  <img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=eliastrana&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🛠️ Tech I work with
