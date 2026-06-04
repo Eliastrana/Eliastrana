@@ -8,22 +8,14 @@
 
 ### 📊 GitHub stats
 
-<p align="">
-  <img height="180" alt="Elias' GitHub stats" src="https://github-readme-stats-mu-nine-18.vercel.app/api?username=eliastrana&show_icons=true&include_all_commits=true&theme=radical" />
-  <img height="180" alt="Top languages" src="https://github-readme-stats-mu-nine-18.vercel.app/api/top-langs/?username=eliastrana&layout=compact&theme=radical" />
+<p align="center">
+  <img height="150" alt="Elias' GitHub stats" src="https://github-readme-stats-mu-nine-18.vercel.app/api?username=eliastrana&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&rank_icon=github" />
+  <img height="150" alt="Top languages" src="https://github-readme-stats-mu-nine-18.vercel.app/api/top-langs/?username=eliastrana&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-<!--
-  ⚠️ The streak card below uses a DIFFERENT service (streak-stats), not your
-  self-hosted instance — so it can rate-limit or break on its own. If it does,
-  you'd self-host github-readme-streak-stats the same way you did this one.
-  Delete these comment lines and the <p> block if you don't want it.
--->
-<p align="">
-  <img height="180" alt="GitHub streak" src="https://streak-stats.demolab.com?user=eliastrana&theme=radical" />
+<p align="center">
+  <img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com?user=eliastrana&theme=radical&hide_border=true" />
 </p>
-
----
 
 ### 🛠️ Tech I work with
 
